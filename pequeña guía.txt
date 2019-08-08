@@ -1,0 +1,9 @@
+para abrir jupyter poner-->>> jupyter notebook
+------
+Git
+1) git clone
+2) git pull
+
+-) git add [files]
+-) git commit -m "msg"
+-) git push
