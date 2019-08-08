@@ -7,3 +7,4 @@ Git
 -) git add [files]
 -) git commit -m "msg"
 -) git push
+-) git rm (to remove files)
